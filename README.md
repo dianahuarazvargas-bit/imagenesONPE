@@ -1,0 +1,2 @@
+# imagenesONPE
+Almace imagenes temporales 
